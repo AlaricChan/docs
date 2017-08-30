@@ -114,7 +114,7 @@ In this step, you will create a payload file, and then leverage the RackHD build
 
   "repo": "http://172.31.128.1:9080/mirrors/Photon"
 
-`Note: Notice the case issue, avoid the mismatch between repo address and mirror folder`
+`Note: Notice the case issue, avoid the mismatch between repo address and the name of mirror folder.`
 
 (2.3) Save and exist vim ( Hit "ESC" key first, then type ":wq" , then hit "Enter")
 
